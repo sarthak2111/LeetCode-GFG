@@ -1,7 +1,3 @@
-package com.spring.mongo.api;
-
-import org.springframework.data.mongodb.core.aggregation.ArrayOperators;
-
 import java.util.*;
 
 public class DetectLoopInList {

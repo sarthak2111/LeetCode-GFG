@@ -1,5 +1,3 @@
-package com.spring.mongo.api;
-
 // Java implementation of a O(n) time method for
 // Zigzag order traversal
 import java.util.*;

@@ -1,5 +1,3 @@
-package com.spring.mongo.api;
-
 import java.util.LinkedList;
 
 public class StackAsLinkedList {
