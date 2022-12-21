@@ -1,0 +1,1 @@
+Here we pass the File object to the method readFileToString() of FileUtils class. This utility class manages to load the content without the necessity of writing any boilerplate code to create an InputStream instance and read data.
