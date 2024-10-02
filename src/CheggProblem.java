@@ -8,7 +8,7 @@ import java.util.ArrayList;
 public class CheggProblem {
     public static void SetQuestion(String[] args) {
         Set<String> mySet = new HashSet<>(); //declare the set as HashSet
-        mySet.add("Chocolate"); //Next 4 lines are used to store Ice-cream flavours
+        mySet.add("Chocolate"); //Nex/////t 4 lines are used to store Ice-cream flavours
         mySet.add("BlackCurrent");
         mySet.add("Strawberry");
         mySet.add("Vanilla");
